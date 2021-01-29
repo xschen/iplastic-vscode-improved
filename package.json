@@ -1,0 +1,22 @@
+{
+    "name": "iplastic-vscode-improved",
+    "displayName": "iPlastic VSCode improved",
+    "description": "A light color theme based on the iPlastic theme.",
+    "version": "0.0.1",
+    "publisher": "xschen",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "iPlastic VSCode improved",
+                "uiTheme": "vs",
+                "path": "./themes/iPlastic VSCode improved-color-theme.json"
+            }
+        ]
+    }
+}
